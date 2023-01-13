@@ -1,0 +1,9 @@
+{
+    "audioCues.volume": 0,
+    "files.associations": {
+        "windows.h": "c",
+        "ws2tcpip.h": "c",
+        "stdio.h": "c",
+        "string.h": "c"
+    }
+}
